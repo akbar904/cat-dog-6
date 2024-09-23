@@ -1,0 +1,21 @@
+name: com.walturn
+description: A simple Flutter application that demonstrates the Cubit pattern for state management with a single screen that toggles between 'Cat' and 'Dog' text along with respective icons.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=2.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  bloc_test: ^9.0.3
+  mocktail: ^0.2.0
+
+flutter:
+  uses-material-design: true

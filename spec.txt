@@ -1,0 +1,1 @@
+Simple 1 screen app That Show A Text of a Cat (with clock icon) and when click the text, it will becomes Dog (with Person icon)
